@@ -5,9 +5,15 @@
   "packages": [
     {
       "name": "Abode Alarm",
+      "category": "Security",
       "description": "Realtime management and tracking of an Abode Alarm system.",
-      "category": "Integrations",
-      "location": "https://raw.githubusercontent.com/jorhett/hubitat-abode/master/packageManifest.json"
+      "tags": [
+        "Alarm Systems",
+        "Monitoring",
+        "Safety & Security"
+      ],
+      "location": "https://raw.githubusercontent.com/jorhett/hubitat-abode/master/packageManifest.json",
+      "id": "25b25014-eebb-4b5d-a21f-231848f8f20a"
     }
   ]
   
