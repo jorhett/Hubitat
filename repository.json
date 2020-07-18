@@ -1,0 +1,14 @@
+{
+  "author": "Jo Rhett",
+  "gitHubUrl": "https://github.com/jorhett",
+  "payPalUrl": "",
+  "packages": [
+    {
+      "name": "Abode Alarm",
+      "description": "Realtime management and tracking of an Abode Alarm system.",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/jorhett/hubitat-abode/master/packageManifest.json"
+    }
+  ]
+  
+}
